@@ -1,0 +1,37 @@
+****************************************************************
+I2C_scan.ino - Ok
+
+Escanea dispositivos I2C conectados al bus
+
+Para tarjeta de conversión I2C a bus paralelo LCD se encuentra dirección en 0x27
+
+****************************************************************
+NTC_geek_01.ino.ino - Ok
+
+Se lee el puerto A0 a 10 bits con conversión a Temp, basado en termistor NTC
+
+****************************************************************
+LCD_01.ino - Ok
+
+Prueba básica de pantalla LCD con comunicación I2C
+NOTA: Se debe incluir la biblioteca para compilar el proyecto
+Sketch >> Incluir biblioteca >> Añadir biblioteca .ZIP...
+allí se debe seleccionar el archivo descargado de la biblioteca correspondiente
+
+****************************************************************
+LCD_02_ADC.ino - Ok
+
+Se visualiza lectura del ADC 'A0' a 10 bits.
+
+╔══════════════════════════════════════════════════════════════╗
+║ Pendiente: Se debe revisar la impresión de texto + variable  ║
+║ con formato												   ║
+╚══════════════════════════════════════════════════════════════╝
+
+****************************************************************
+LCD_03_MQ4.ino - Ok - en revisión
+
+
+
+****************************************************************
+
