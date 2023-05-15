@@ -1,0 +1,22 @@
+****************************************************************
+https://pypi.org/project/pcf8574-io/
+
+import pcf8574_io
+
+paquete para raspberry para manejar el adaptador I2C a paralelo con el LCD 2X16
+
+****************************************************************
+https://www.prometec.net/bus-i2c/
+
+tutorial I2C y LCD para auduino
+
+****************************************************************
+https://www.sensingthecity.com/configuring-an-mq-4-sensor-to-detect-methane-gas/
+
+Prueba básica de sensor MQ4 con Arduino
+
+****************************************************************
+
+
+
+****************************************************************
