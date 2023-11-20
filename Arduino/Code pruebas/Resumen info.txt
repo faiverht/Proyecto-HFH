@@ -34,7 +34,7 @@ LCD_03_MQ4.ino - Ok
 Se visualiza lectura del ADC 'A0' a 10 bits. Solamente se visualiza el valor de lectura de voltaje generado, falta la escala en ppm
 
 ╔═══════════════════════════════════════════════════════════════╗
-║ Pendiente: Se debe aplicar escalamiento de voltaje appm		║
+║ Pendiente: Se debe aplicar escalamiento de voltaje a ppm		║
 ╚═══════════════════════════════════════════════════════════════╝
 
 ****************************************************************
