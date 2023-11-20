@@ -16,7 +16,11 @@ https://www.sensingthecity.com/configuring-an-mq-4-sensor-to-detect-methane-gas/
 Prueba básica de sensor MQ4 con Arduino
 
 ****************************************************************
+Se adiciona proyecto en KiCad
+Version: 7.99.0-2684-g11de95778b, release build
 
-
+* ADC_MCPV01.kicad_pro
+* ADC_MCPV01.kicad_sch
+* ADC_MCPV01.kicad_pcb
 
 ****************************************************************
