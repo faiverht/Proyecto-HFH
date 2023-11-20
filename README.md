@@ -9,14 +9,14 @@ Alimentación de voltaje configurable:
 3 - Desde fuente externa mediante bornera 12V (Jumper JP_VDC1  en posición '12V EXT' y jumper V_IN1 en posición 'REG 5V')
 
 ## Frontal
-![Imagen no se encuentra disponible](images/PCB 01.png)
+![Imagen no se encuentra disponible](images/PCB01.png)
 ## Trasera
-![Imagen no se encuentra disponible](images/PCB 02.png)
+![Imagen no se encuentra disponible](images/PCB02.png)
 ## Otras
-![Imagen no se encuentra disponible](images/PCB 03.png)
-![Imagen no se encuentra disponible](images/PCB 04.png)
+![Imagen no se encuentra disponible](images/PCB03.png)
+![Imagen no se encuentra disponible](images/PCB04.png)
 ## Configuración de Jumpers para fuente de alimetación
-![Imagen no se encuentra disponible](images/PCB 05.png)
+![Imagen no se encuentra disponible](images/PCB05.png)
 
 Proyecto de monitoreo y control con Arduino y/o Raspberry Pi y/o PC (Win - Linux)
 
