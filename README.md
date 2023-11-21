@@ -5,7 +5,7 @@ Tarjeta de expansión de puertos análogos con conversor análogo digital MCP342
 
 
 ## Frontal
-![Imagen no se encuentra disponible](images/PCB 01.png)
+![Imagen no se encuentra disponible](images/PCB01.png)
 ## Trasera
 ![Imagen no se encuentra disponible](images/PCB02.png)
 ## Otras
