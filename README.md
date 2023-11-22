@@ -25,7 +25,7 @@ Alimentación de voltaje configurable:
 
 Adicionalmente los conectores J2, J3 y J4 tienen alimentación configurable de 5V o 12V según posición de los jumpers DC2, DC3 y DC4
 
-![Jumpers DC 5 - 12 V](images/PCB06.png){:height="434px" width="200px"}
+![Jumpers DC 5 - 12 V](images/PCB06.png)
 
 
 **Nota:**
