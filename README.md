@@ -24,10 +24,11 @@ Alimentación de voltaje configurable:
 ![Imagen no se encuentra disponible](images/PCB05.png)
 
 Adicionalmente los conectores J2, J3 y J4 tienen alimentación configurable de 5V o 12V según posición de los jumpers DC2, DC3 y DC4
+!(images/PCB06.png)
 
 **Nota:**
 
-El conector J1 se utiliza exclusivamente par sensor de entrada de alimentación de 6V
+El conector J1 se utiliza exclusivamente para sensor de entrada con alimentación de 6V
 
 
 ## Proyecto de monitoreo y control con Arduino y/o Raspberry Pi y/o PC (Win - Linux)
