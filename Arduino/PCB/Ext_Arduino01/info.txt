@@ -1,1 +1,3 @@
+Application: KiCad x64 on x64
 
+Version: 7.99.0-2684-g11de95778b, release build
