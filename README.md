@@ -11,6 +11,9 @@ Tarjeta de expansión de puertos análogos con conversor análogo digital MCP342
 ## Otras
 ![Imagen no se encuentra disponible](images/PCB03.png)
 ![Imagen no se encuentra disponible](images/PCB04.png)
+## Terminado
+![Imagen no se encuentra disponible](images/PcbTerminado01.jpeg)
+![Imagen no se encuentra disponible](images/PcbTerminado02.jpeg)
 ## Configuración de Jumpers para fuente de alimetación
 
 Alimentación de voltaje configurable:
