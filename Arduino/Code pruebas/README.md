@@ -8,7 +8,5 @@ Código para el escaneo de dispositivos conectados al bus I2C
 
 Respuesta obtenida del escaneo y visualizada en el monitor serial de Arduino
 
-![Imagen no se encuentra disponible](/../../images/ScanI2c_ino_rta.jpg)
+![Imagen no se encuentra disponible](../../images/ScanI2c_ino_rta.jpg)
 
-**Nota:**
-Texto
