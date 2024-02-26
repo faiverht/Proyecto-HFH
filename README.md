@@ -39,14 +39,18 @@ El conector J1 se utiliza exclusivamente para sensor de entrada con alimentació
 EL código de prueba para Arduino se encuentran disponibles en /Arduino/Code pruebas de este mismo repositorio
 
 Arduino y tarjeta de expansión
+
 ![Imagen no se encuentra disponible](images/PcbTerminado03.jpeg)
 
 Montajes
 ![Imagen no se encuentra disponible](images/PcbTerminado04.jpeg)
+
 ![Imagen no se encuentra disponible](images/PcbTerminado05.jpeg)
+
 ![Imagen no se encuentra disponible](images/PcbTerminado06.jpeg)
 
-Prueba de montaje y adquisició con sensor de gas MQ4
+Prueba de montaje y adquisición con sensor de gas MQ4
+
 ![Imagen no se encuentra disponible](images/PcbTerminado07.jpeg)
 
 ## Proyecto de monitoreo y control con Arduino y/o Raspberry Pi y/o PC (Win - Linux)
